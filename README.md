@@ -71,9 +71,10 @@ To dokku@aws-dokku:node-js-sample
 
 - http://dokku.viewdocs.io/dokku/configuration-management/
 
-### Custom dockerfile for an app
+### Custom dockerfile and run commands for an app
 
-TODO
+- TODO
+- See: https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 
 ### Set custom start for an app
 
